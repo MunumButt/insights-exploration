@@ -9,6 +9,8 @@ Assuming you have already installed the excellent [UV package manager](https://d
 On Ubuntu
 
 ```bash
+git clone https://github.com/MunumButt/insights-exploration
+cd insights-exploration
 uv venv
 source .venv/bin/activate
 uv pip install -r requirements.txt
@@ -17,6 +19,8 @@ uv pip install -r requirements.txt
 On Windows
 
 ```bash
+git clone https://github.com/MunumButt/insights-exploration
+cd insights-exploration
 uv venv
 .venv/Scripts/Activate
 uv pip install -r requirements.txt
